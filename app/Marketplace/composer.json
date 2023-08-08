@@ -1,6 +1,6 @@
 {
- "name": "apptha/marketplace",
-    "description": "Apptha Marketplace Extension ",
+ "name": "ajwtech/magento-marketplace",
+    "description": "Marketplace Extension ",
     "require": {
         "magento/magento-composer-installer": "*"
     },
@@ -10,7 +10,7 @@
         "map": [
             [
                 "*",
-                "Apptha/Marketplace"
+                "ajwtech/magento-marketplace"
             ]
         ]
     }
